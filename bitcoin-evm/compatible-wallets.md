@@ -1,8 +1,6 @@
 # 🏦 Compatible Wallets
 
-
-
-Compatible Wallets​[​![](https://alphawallet.com/wp-content/themes/alphawallet/img/logo-horizontal-new.svg)​](https://alphawallet.com/)​
+​[​![](https://alphawallet.com/wp-content/themes/alphawallet/img/logo-horizontal-new.svg)​](https://alphawallet.com/)​
 
 #### The ultimate Web3 Wallet to power your tokens. <a href="#the-ultimate-web3-wallet-to-power-your-tokens." id="the-ultimate-web3-wallet-to-power-your-tokens."></a>
 
