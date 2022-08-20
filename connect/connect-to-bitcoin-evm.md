@@ -1,4 +1,4 @@
-# Connect To Bitcoin EVM
+# 🔌 Connect To Bitcoin EVM
 
 ## Bitcoin EVM Connection Details <a href="#nova-network-public-ledger" id="nova-network-public-ledger"></a>
 
