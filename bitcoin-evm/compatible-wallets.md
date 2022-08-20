@@ -16,9 +16,9 @@ is an easy and secure digital wallet trusted by millions.**Compatibility: Mobile
 
 ## Integrating Your Wallet <a href="#integrating-your-wallet" id="integrating-your-wallet"></a>
 
-If you have developed a wallet that is compatible with PHI Network, you can submit your Github repository link to have it listed here. We will stress-test your code, and if it fulfills our requirements and is to the satisfaction of our integration team, your wallet will be listed as officially supported.The requirements for new wallets to be officially supported are:
+If you have developed a wallet that is compatible with Bitcoin EVM Network, you can submit your Github repository link to have it listed here. We will stress-test your code, and if it fulfills our requirements and is to the satisfaction of our integration team, your wallet will be listed as officially supported.The requirements for new wallets to be officially supported are:
 
 * Have a verifiable open-source code, preferably hosted on Github;
 * Have a reputable and competent team behind the project;
-* Support both native and Deh20 token transactions at minimum;
+* Support both native and Btc20 token transactions at minimum;
 * Strictly store private keys and mnemonic information locally;
