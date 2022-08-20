@@ -1,6 +1,6 @@
 # Connect To Bitcoin EVM
 
-## PHI Network Smart Chain <a href="#nova-network-public-ledger" id="nova-network-public-ledger"></a>
+## Bitcoin EVM Connection Details <a href="#nova-network-public-ledger" id="nova-network-public-ledger"></a>
 
 * **Network Name:** Bitcoin Evm
 * **RPC URL: https://connect.bitcoinevm.com**​
