@@ -8,3 +8,4 @@
 
 * [Governance](road-map/governance.md)
 * [Governance Token (Naka)](road-map/governance-token-naka.md)
+* [eBTC](road-map/ebtc.md)
