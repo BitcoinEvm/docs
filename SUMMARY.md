@@ -7,7 +7,8 @@
 ## Road Map
 
 * [Blockchain Source Code](road-map/blockchain-source-code.md)
-* [Block Explorer](road-map/block-explorer.md)
+* [Block Explorer](road-map/block-explorer/README.md)
+  * [Block Explorer Source Code](https://github.com/BitcoinEvm/blockscout)
 * [Chainlist](road-map/chainlist.md)
 * [Governance](road-map/governance.md)
 * [Governance Token (Naka)](road-map/governance-token-naka.md)

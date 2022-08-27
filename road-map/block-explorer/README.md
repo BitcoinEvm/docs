@@ -6,5 +6,3 @@ description: Block Explorer Powered By Blockscout
 
 {% embed url="https://explorer.bitcoinevm.com" %}
 
-
-
