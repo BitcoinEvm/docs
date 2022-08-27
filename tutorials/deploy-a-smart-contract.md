@@ -1,6 +1,6 @@
 # Deploy A Smart Contract
 
-If you are new to the space, we recommend using **Remix IDE** to develop, compile, and deploy your contracts. It has one of the most intuitive UIs amongst the existing EVM IDEs compatible with PHI Network, making the experience effortless.You can access it using your browser: [https://remix.ethereum.org/](https://remix.ethereum.org/)​
+If you are new to the space, we recommend using **Remix IDE** to develop, compile, and deploy your contracts. It has one of the most intuitive UIs amongst the existing EVM IDEs compatible with Bitcoin EVM Network, making the experience effortless.You can access it using your browser: [https://remix.ethereum.org/](https://remix.ethereum.org/)​
 
 **Requirements:**
 
