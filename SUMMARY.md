@@ -12,10 +12,13 @@
 
 ## Get Started
 
-* [🪙 Bitcoin EVM](get-started/bitcoin-evm/README.md)
+* [🪙 Bitcoin EVM](<README (1).md>)
   * [🏦 Compatible Wallets](get-started/bitcoin-evm/compatible-wallets.md)
-  * [🔌 Connect To Bitcoin EVM](get-started/bitcoin-evm/connect-to-bitcoin-evm.md)
+  * [🔌 Connect To Bitcoin EVM](connect/connect-to-bitcoin-evm.md)
 
 ## Tutorials
 
 * [Deploy A dApp](tutorials/deploy-a-dapp.md)
+* [Deploy A Smart Contract](tutorials/deploy-a-smart-contract.md)
+* [Smart Contract Examples](tutorials/smart-contract-examples/README.md)
+  * [Classic BTC-20 Token](tutorials/smart-contract-examples/classic-btc-20-token.md)
