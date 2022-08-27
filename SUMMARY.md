@@ -8,6 +8,7 @@
 
 * [Blockchain Source Code](road-map/blockchain-source-code.md)
 * [Block Explorer](road-map/block-explorer.md)
+* [Chainlist](road-map/chainlist.md)
 * [Governance](road-map/governance.md)
 * [Governance Token (Naka)](road-map/governance-token-naka.md)
 * [eBTC](road-map/ebtc.md)
