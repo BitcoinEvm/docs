@@ -1,8 +1,6 @@
 ---
-description: The EVM Blockchain Source Code That Powers Bitcoin EVM.
+description: Bitcoin Ethereum Virtual Machine Documentation
 ---
 
-# Blockchain Source Code
-
-{% embed url="https://github.com/BitcoinEvm/go-ethereum/" %}
+# Bitcoin EVM
 

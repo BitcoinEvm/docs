@@ -1,9 +1,5 @@
 # 🔌 Connect To Bitcoin EVM
 
-{% embed url="https://chainlist.org/chain/2203" %}
-Chainlist.org
-{% endembed %}
-
 ## Bitcoin EVM Connection Details <a href="#nova-network-public-ledger" id="nova-network-public-ledger"></a>
 
 * **Network Name:** Bitcoin Evm

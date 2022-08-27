@@ -12,7 +12,7 @@
 
 ## Get Started
 
-* [🪙 Bitcoin EVM](<README (1).md>)
+* [🪙 Bitcoin EVM](README.md)
   * [🏦 Compatible Wallets](get-started/bitcoin-evm/compatible-wallets.md)
   * [🔌 Connect To Bitcoin EVM](connect/connect-to-bitcoin-evm.md)
 
@@ -22,3 +22,7 @@
 * [Deploy A Smart Contract](tutorials/deploy-a-smart-contract.md)
 * [Smart Contract Examples](tutorials/smart-contract-examples/README.md)
   * [Classic BTC-20 Token](tutorials/smart-contract-examples/classic-btc-20-token.md)
+  * [Fixed Cap Supply Token](tutorials/smart-contract-examples/fixed-cap-supply-token.md)
+  * [Reflection Token](tutorials/smart-contract-examples/reflection-token.md)
+  * [Mintable Token](tutorials/smart-contract-examples/mintable-token.md)
+  * [Wrapped Token Protocol](tutorials/smart-contract-examples/wrapped-token-protocol.md)
