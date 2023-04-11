@@ -4,6 +4,8 @@
 Within Your Wallet Browser Click Add BTC At The Bottom Of Block Explorer To Automatically Connect To The Chain.
 {% endembed %}
 
+<figure><img src="../.gitbook/assets/IMG_1533.jpg" alt=""><figcaption></figcaption></figure>
+
 ## Bitcoin EVM Connection Details <a href="#nova-network-public-ledger" id="nova-network-public-ledger"></a>
 
 * **Network Name:** Bitcoin EVM

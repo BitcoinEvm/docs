@@ -8,7 +8,7 @@
 * [Chainlist](road-map/chainlist.md)
 * [Governance](road-map/governance.md)
 * [Governance Token (Naka)](road-map/governance-token-naka.md)
-* [Upgrade BTC](road-map/upgrade-btc.md)
+* [Upgrade BTC](road-map/ebtc.md)
 
 ## Get Started
 
