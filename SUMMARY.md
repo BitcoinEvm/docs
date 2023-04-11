@@ -8,11 +8,11 @@
 * [Chainlist](road-map/chainlist.md)
 * [Governance](road-map/governance.md)
 * [Governance Token (Naka)](road-map/governance-token-naka.md)
-* [eBTC](road-map/ebtc.md)
+* [Upgrade BTC](road-map/upgrade-btc.md)
 
 ## Get Started
 
-* [🪙 Bitcoin EVM](README.md)
+* [🪙 Bitcoin EVM](<README (1).md>)
   * [🏦 Compatible Wallets](get-started/bitcoin-evm/compatible-wallets.md)
   * [🔌 Connect To Bitcoin EVM](connect/connect-to-bitcoin-evm.md)
 
