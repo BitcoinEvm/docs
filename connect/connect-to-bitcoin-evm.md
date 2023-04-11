@@ -6,7 +6,7 @@ Chainlist.org
 
 ## Bitcoin EVM Connection Details <a href="#nova-network-public-ledger" id="nova-network-public-ledger"></a>
 
-* **Network Name:** Bitcoin Evm
+* **Network Name:** Bitcoin
 * **RPC URL:** [**https://connect.bitcoinevm.com**](https://connect.bitcoinevm.com)​
 * **Chain ID: 2203**
 * **Symbol: BTC**
