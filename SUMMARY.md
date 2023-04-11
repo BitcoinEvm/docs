@@ -2,7 +2,7 @@
 
 ## Get Started
 
-* [🪙 Bitcoin EVM](<README (1).md>)
+* [🪙 Bitcoin EVM](README.md)
   * [🏦 Compatible Wallets](get-started/bitcoin-evm/compatible-wallets.md)
   * [🔌 Connect To Bitcoin EVM](connect/connect-to-bitcoin-evm.md)
 
