@@ -4,7 +4,7 @@
 
 Compatibility: Browser, Mobile
 
-​[Download Brave](https://brave.com/)
+Download: [Official Download](https://brave.com)
 
 **​**
 
