@@ -38,7 +38,7 @@ Multi-chain, Easy to UseSupports all the leading chains/cryptocurrencies (Bitcoi
 
 Download: [Download](https://www.tokenpocket.pro/en/download/app)​
 
-Browser Extension: [Download](https://extension.tokenpocket.pro/#/)****
+Browser Extension: [Download](https://extension.tokenpocket.pro/#/)
 
 **​**​[​![](https://brave.com/static-assets/images/brave-logo.svg)​](https://brave.com/)&#x20;
 
