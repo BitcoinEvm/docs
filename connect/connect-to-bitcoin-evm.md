@@ -1,7 +1,7 @@
 # 🔌 Connect To Bitcoin EVM
 
-{% embed url="https://chainlist.org/chain/2203" %}
-Chainlist.org
+{% embed url="https://explorer.bitcoinevm.com" %}
+Within Your Wallet Browser Click Add BTC At The Bottom Of Block Explorer To Automatically Connect To The Chain.
 {% endembed %}
 
 ## Bitcoin EVM Connection Details <a href="#nova-network-public-ledger" id="nova-network-public-ledger"></a>
