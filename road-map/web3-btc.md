@@ -10,4 +10,4 @@ Bitcoin EVM Is Exchangeable For Bitcoin At Any Time At A 1 to 1 Rate. Bitcoin EV
 
 BTC Is Compatible With The Ethereum Virtual Machine Allowing Anything That Can Be Done On Ethereum To Now Be Done With Bitcoin For 1,000,000,000th The Cost Of Ethereum.&#x20;
 
-Bitcoin EVM Is More Efficient Than Both Ethereum & Bitcoin With Scalable Infrastructure That Can Serve 1,000,000,000s of on chain transactions a second for micropennies.&#x20;
+Bitcoin EVM Is More Efficient Than Both Ethereum & Bitcoin With Scalable Infrastructure That Can Serve 1,000,000s of on chain transactions a second for micropennies.&#x20;
