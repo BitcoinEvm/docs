@@ -29,3 +29,7 @@ You can also use any Solidity-compatible IDE to write, develop, and integrate yo
 Contract Function Calls You don't have to verify your contract to call its functions on Bitcoin EVM.&#x20;
 
 You can upload your contract's ABI code, specify its network address, and call its functions. Further Support We strive to have a comprehensive and easy-to-read documentation, but if you cannot find what you are looking for here, feel free to reach out to our support team directly, and we will be happy to help.
+
+## Easily To Use Developer Tools:
+
+{% embed url="https://thirdweb.com/bitcoin-evm" %}
