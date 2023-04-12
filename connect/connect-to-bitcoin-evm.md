@@ -16,7 +16,7 @@ Within Your Wallet Browser Click Add BTC At The Bottom Of Block Explorer To Auto
 
 ## Bitcoin EVM Manual Connection Details: <a href="#nova-network-public-ledger" id="nova-network-public-ledger"></a>
 
-* **Network Name:** Bitcoin EVM
+* **Network Name:** Bitcoin
 * **RPC URL:** [**https://connect.bitcoinevm.com**](https://connect.bitcoinevm.com)​
 * **Chain ID: 2203**
 * **Symbol: BTC**
