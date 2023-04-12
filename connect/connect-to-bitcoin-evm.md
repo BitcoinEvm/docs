@@ -1,5 +1,5 @@
 ---
-description: Learn How To Connect Your Web3 Wallet To Bitcoin (BTC)
+description: Connect Your Web3 Wallet To Bitcoin (BTC)
 ---
 
 # 🔌 Connect To Bitcoin EVM
