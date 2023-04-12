@@ -1,3 +1,7 @@
+---
+description: Learn How To Connect Your Web3 Wallet To Bitcoin
+---
+
 # 🔌 Connect To Bitcoin EVM
 
 {% embed url="https://explorer.bitcoinevm.com" %}
@@ -6,7 +10,11 @@ Within Your Wallet Browser Click Add BTC At The Bottom Of Block Explorer To Auto
 
 <figure><img src="../.gitbook/assets/IMG_1533.jpg" alt=""><figcaption></figcaption></figure>
 
-## Bitcoin EVM Connection Details: <a href="#nova-network-public-ledger" id="nova-network-public-ledger"></a>
+{% embed url="https://chainlist.org/chain/2203" %}
+
+{% embed url="https://thirdweb.com/bitcoin-evm" %}
+
+## Bitcoin EVM Manual Connection Details: <a href="#nova-network-public-ledger" id="nova-network-public-ledger"></a>
 
 * **Network Name:** Bitcoin EVM
 * **RPC URL:** [**https://connect.bitcoinevm.com**](https://connect.bitcoinevm.com)​
