@@ -5,6 +5,7 @@
 * [🪙 Bitcoin EVM](README.md)
   * [🏦 Compatible Wallets](get-started/bitcoin-evm/compatible-wallets.md)
   * [🔌 Connect To Bitcoin EVM](connect/connect-to-bitcoin-evm.md)
+  * [🕸 ThirdWeb](get-started/bitcoin-evm/thirdweb.md)
 
 ## Road Map
 
@@ -14,7 +15,7 @@
 * [Chainlist](road-map/chainlist.md)
 * [Governance](road-map/governance.md)
 * [Governance Token (Naka)](road-map/governance-token-naka.md)
-* [Upgrade BTC](road-map/ebtc.md)
+* [Web3 BTC](road-map/web3-btc.md)
 
 ## Tutorials
 
