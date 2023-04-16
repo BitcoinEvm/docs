@@ -1,7 +1,7 @@
 ---
 description: >-
-  Decentralized  Automated Market Maker Exchange utilizing smart contracts to
-  execute trades & provide liquidity.
+  Decentralized Automated Market Maker Exchange (DEX AMM) Uses smart contracts
+  to execute trades & provide liquidity.
 ---
 
 # 💱 BTCSWAP
