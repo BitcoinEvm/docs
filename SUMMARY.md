@@ -6,7 +6,7 @@
   * [🏦 Compatible Wallets](get-started/bitcoin-evm/compatible-wallets.md)
   * [🔌 Connect To Bitcoin EVM](connect/connect-to-bitcoin-evm.md)
   * [🌉 Bitcoin EVM Bridge](get-started/bitcoin-evm/bitcoin-evm-bridge.md)
-  * [💱 BTCSWAP](get-started/bitcoin-evm/btcswap.md)
+  * [💱 BTCSWAP](get-started/bitcoin-evm/bitcoin-dex.md)
   * [🕸 ThirdWeb](get-started/bitcoin-evm/thirdweb.md)
 
 ## Road Map
