@@ -1,7 +1,7 @@
 ---
 description: >-
-  Decentralized cryptocurrency exchange that uses smart contracts to execute
-  trades.
+  Decentralized  Automated Market Maker Exchange utilizing smart contracts to
+  execute trades & provide liquidity.
 ---
 
 # 💱 BTCSWAP
