@@ -1,7 +1,7 @@
 ---
 description: >-
-  Btcswap is a decentralized cryptocurrency exchange that uses smart contracts
-  to execute trades.
+  Decentralized cryptocurrency exchange that uses smart contracts to execute
+  trades.
 ---
 
 # 💱 BTCSWAP
