@@ -27,6 +27,7 @@
 * [Smart Contract Examples](tutorials/smart-contract-examples/README.md)
   * [Tokens (BTC-20)](tutorials/smart-contract-examples/classic-btc-20-token.md)
   * [NFTs (BTC-721)](tutorials/smart-contract-examples/nfts-btc-721.md)
+  * [Bitcoin Name System (BNS)](tutorials/smart-contract-examples/bitcoin-name-system-bns.md)
   * [Fixed Cap Supply Token](tutorials/smart-contract-examples/fixed-cap-supply-token.md)
   * [Reflection Token](tutorials/smart-contract-examples/reflection-token.md)
   * [Mintable Token](tutorials/smart-contract-examples/mintable-token.md)
