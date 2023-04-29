@@ -2,7 +2,7 @@
 
 Bitcoin Governance Token Called "BitGovernance" Ticker Symbol (BTG)
 
-BitGovernance (BTG) Token Will First Launch On Binance Smart Chain As A Bep20 Token & Be Sold In A Fair Market Launch On Pinksale Starting on 9/11/22 & Will Run Until The Sales Conclusion. The Raised Funds From The Governance Token Sale Will Be Used To Build The Initial dApps For The Community & Officially Launch The Bitcoin EVM Network.&#x20;
+BitGovernance (BTG) Token Will First Launch On Binance Smart Chain As A Bep20 Token & Be Sold In A Fair Market Launch On Pinksale Starting on 5/22/23 & Will Run Until The Sales Conclusion. The Raised Funds From The Governance Token Sale Will Be Used To Build The Initial dApps For The Community & Officially Launch The Bitcoin EVM Network.&#x20;
 
 BitGovernance (BTG) Will Also Be Launched On Bitcoin EVM Chain With A Decentralized Non-custodial Bridge That Allows Holders To Move Their Bitgovernance To & From Binance Smart Chain & Bitcoin EVM.&#x20;
 
