@@ -21,10 +21,11 @@
 
 ## Tutorials
 
+* [Set up your BitcoinEVM](tutorials/set-up-your-bitcoinevm.md)
 * [Deploy A dApp](tutorials/deploy-a-dapp.md)
 * [Deploy A Smart Contract](tutorials/deploy-a-smart-contract.md)
 * [Smart Contract Examples](tutorials/smart-contract-examples/README.md)
-  * [Classic BTC-20 Token](tutorials/smart-contract-examples/classic-btc-20-token.md)
+  * [Tokens (BTC-20)](tutorials/smart-contract-examples/tokens-btc-20.md)
   * [Fixed Cap Supply Token](tutorials/smart-contract-examples/fixed-cap-supply-token.md)
   * [Reflection Token](tutorials/smart-contract-examples/reflection-token.md)
   * [Mintable Token](tutorials/smart-contract-examples/mintable-token.md)

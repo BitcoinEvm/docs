@@ -1,6 +1,106 @@
-# Classic BTC-20 Token
+# Tokens (BTC-20)
+
+The BTC-20 token standard on Bitcoin is similar to ERC-20 on Ethereum. It can represent virtually anything in Bitcoin:
+
+* \
+  a cryptocurrency\
+  \
+  a share in a company\
+  \
+  voting rights in a DAO\
+  \
+  a fiat currency like USD\
+  \
+  an ounce of gold\
+  \
+  loyalty points\
+  \
+  and more
+
+​
+
+Write a BTC-20 smart contract
+
+Extending the OpenZeppelin ERC-20 contract, we can create a governance token (BIT) for a hypothetical DEX (Bitswap) on Bitcoin.&#x20;
 
 ```solidity
+// SPDX-License-Identifier: MIT
+pragma solidity ^0.8.0;
+​
+import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
+​
+contract Bitswap is ERC20 {
+    constructor(uint256 initialSupply) ERC20("Bitswap", "BIT") {
+        _mint(msg.sender, initialSupply);
+    }
+}
+​
+```
+
+Clone the smart contract examples\
+
+
+We've prepared a few different examples for you to get started.
+
+git clone https://github.com/bitcoinevm/smart-contract-examples.git
+
+​
+
+Compile the contracts\
+
+
+To compile your contracts, use the built-in hardhat compile task.
+
+cd smart-contract-examples
+
+npm install
+
+npx hardhat compile
+
+
+
+Deploy the contracts
+
+
+
+Review config file hardhat.config.ts. The network configs should look like this.
+
+```
+networks: {
+    mynw: {
+      url: "http://localhost:10002",
+      accounts: {
+        mnemonic: "<your mnemonic with funds>"
+      },
+      timeout: 100_000,
+    },
+    blockscoutVerify: {
+      blockscoutURL: "http://localhost:4000", // your explorer URL
+      ...
+    }
+  }
+```
+
+Run the deploy scripts using hardhat-deploy.
+
+npx hardhat deploy --tags ERC20\
+
+
+Make sure the accounts in hardhat.config.ts have some BTC.
+
+​
+
+Interact with the contracts\
+
+
+Once the contracts are deployed, you can interact with them. We've prepared a few hardhat tasks to make it easy for you to interact with the contracts.
+
+npx hardhat balanceERC20
+
+npx hardhat transferERC20 --from \<your-address> --amount 0.1 --to \<your-address>
+
+```solidity
+
 //// SPDX-License-Identifier: MIT
 // Contract by Bitcoin EVM.
 
