@@ -21,4 +21,4 @@ Within Your Wallet Browser Click Add BTC At The Bottom Of Block Explorer To Auto
 * **Chain ID: 2203**
 * **Symbol: BTC**
 * **Block Explorer:** [**https://explorer.bitcoinevm.com**](https://explorer.bitcoinevm.com)
-* **Logo URL**: [https://bitcoinevm.com/oophodes/2022/08/IMG\_6664.png](https://bitcoinevm.com/oophodes/2022/08/IMG\_6664.png)
+* **Logo URL**: [https://bitcoinevm.com/oophodes/2023/04/IMG\_1727.png](https://bitcoinevm.com/oophodes/2023/04/IMG\_1727.png)
