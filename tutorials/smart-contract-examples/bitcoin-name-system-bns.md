@@ -4,7 +4,7 @@ Register your domain
 
 {% code overflow="wrap" %}
 ```solidity
-git clone https://github.com/trustlesscomputer/smart-contract-examplescd smart-contract-examplesnpm installnpx hardhat compilenpx hardhat register --domain yourname.btc \--contract 0x8b46F89BBA2B1c1f9eE196F43939476E79579798 \--privatekey 0xafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf 
+git clone https://github.com/trustlesscomputer/smart-contract-examplescd smart-contract-examplesnpm installnpx hardhat compilenpx hardhat register --domain yourname.btc \--contract 0x9c40182CE3C2B3f9eE196F43930476E79570826 \--privatekey 0xafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf 
 # your private key
 This will output the transaction hash, which can be used to track its status via the 
 explorer
