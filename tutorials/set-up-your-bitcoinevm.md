@@ -27,7 +27,7 @@ It may take some time for your Bitcoin full node to be fully synced.
 
 Install BitcoinEVM
 
-BitcoinEVM is a Turing-complete virtual machine. It is written in Go, and pre-built binaries are available on the [download page](https://github.com/TrustlessComputer/tc-prebuilds).\
+BitcoinEVM is a Turing-complete virtual machine. It is written in Go, and pre-built binaries are available on the [download page](https://github.com/TrustlessComputer/tc-prebuilds)[.](https://github.com/bitcoinevm/smart-contract-examples)\
 
 
 After downloading the binary, run chmod +x \<filename> to allow executable permission. On MacOS, you may also have to go to Privacy & Security to allow the file to run.
