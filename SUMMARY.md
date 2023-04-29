@@ -7,7 +7,7 @@
   * [🔌 Connect To Bitcoin EVM](connect/connect-to-bitcoin-evm.md)
   * [🌉 Bitcoin EVM Bridge](get-started/bitcoin-evm/bitcoin-evm-bridge.md)
   * [💱 BTCSWAP](get-started/bitcoin-evm/bitcoin-dex.md)
-  * [🕸 ThirdWeb](get-started/bitcoin-evm/thirdweb.md)
+  * [Marketplace](get-started/bitcoin-evm/marketplace.md)
 
 ## Road Map
 
@@ -33,6 +33,7 @@
   * [Reflection Token](tutorials/smart-contract-examples/reflection-token.md)
   * [Mintable Token](tutorials/smart-contract-examples/mintable-token.md)
   * [Wrapped Token Protocol](tutorials/smart-contract-examples/wrapped-token-protocol.md)
+* [🕸 ThirdWeb](tutorials/thirdweb.md)
 
 ***
 
