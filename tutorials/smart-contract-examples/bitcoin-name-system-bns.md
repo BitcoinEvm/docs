@@ -2,15 +2,20 @@
 
 Register your domain
 
-{% code overflow="wrap" %}
-```solidity
-git clone https://github.com/Bitcoinevm/smart-contract-examplescd smart-contract-examplesnpm installnpx hardhat compilenpx hardhat register --domain yourname.btc \--contract 0x9c40182CE3C2B3f9eE196F43930476E79570826 \--privatekey 0xafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf 
-# your private key
-This will output the transaction hash, which can be used to track its status via the 
-explorer
-. After it is confirmed, you can try resolving that name by calling the BNS contractnpx hardhat resolve --domain yourname.btc \--contract 0x9c40182CE3C2B3f9eE196F43930476E79570826 \​
-```
-{% endcode %}
+<pre class="language-solidity" data-overflow="wrap"><code class="lang-solidity">git clone https://github.com/Bitcoinevm/smart-contract-examples
+
+cd smart-contract-examples
+
+npm installnpx hardhat compilenpx hardhat register --domain yourname.btc 
+
+--contract 0x9c40182CE3C2B3f9eE196F43930476E79570826--privatekey 0xafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafafaf 
+#your private key
+<strong>
+</strong><strong>This will output the transaction hash, which can be used to track its status via the 
+</strong>explorer. 
+
+After it is confirmed, you can try resolving that name by calling the BNS contractnpx hardhat resolve --domain yourname.btc --contract 0x9c40182CE3C2B3f9eE196F43930476E79570826 
+</code></pre>
 
 Let's build the Bitcoin Name System (BNS), a decentralized, open, and permissionless naming system on Bitcoin.
 
