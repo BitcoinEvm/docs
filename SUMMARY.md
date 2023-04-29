@@ -33,3 +33,7 @@
   * [Reflection Token](tutorials/smart-contract-examples/reflection-token.md)
   * [Mintable Token](tutorials/smart-contract-examples/mintable-token.md)
   * [Wrapped Token Protocol](tutorials/smart-contract-examples/wrapped-token-protocol.md)
+
+***
+
+* [White Paper](https://bitcoinevm.com/oophodes/2023/04/Bitcoinevm-White-Paper.pdf)
