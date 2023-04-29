@@ -8,6 +8,20 @@ Compatibility: Browser, Mobile
 
 Download: [Official Download](https://brave.com)
 
+<figure><img src="https://wallet3.io/static/media/logo.c13e125d.svg" alt="" width="188"><figcaption></figcaption></figure>
+
+#### Open Web3 with Wallet 3
+
+* Designed based on asset security
+* Multi-chain tokens and NFT digital assets
+* A built-in Web3 browser that can be compatible with Metamask
+* Unreserved open-source code for auditing
+* Signin With Apple and Google Account
+
+**Compatibility:** Mobile Dapp Browser
+
+**Download:** [Official Download](https://wallet3.io/)
+
 
 
 [![Opera](https://cdn-production-opera-website.operacdn.com/staticfiles/assets/images/logo/logo-and-name.46b042c664d0.png)](https://www.opera.com/)
