@@ -16,7 +16,7 @@
   * [Block Explorer Source Code](https://github.com/BitcoinEvm/blockscout)
 * [Chainlist](road-map/chainlist.md)
 * [Governance](road-map/governance.md)
-* [Governance Token (Naka)](road-map/governance-token-naka.md)
+* [Governance Token (BTG)](road-map/governance-token-btg.md)
 * [Web3 BTC](road-map/web3-btc.md)
 
 ## Tutorials
