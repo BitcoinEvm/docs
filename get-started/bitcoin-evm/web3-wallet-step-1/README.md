@@ -2,7 +2,7 @@
 description: Self Custodial Web3 Wallet.
 ---
 
-# 🏦 Web3 Wallet (Step 1)
+# 🏦 Wallet (Step 1)
 
 **​**​[​![](https://brave.com/static-assets/images/brave-logo.svg)​](https://brave.com/)&#x20;
 
