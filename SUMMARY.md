@@ -23,11 +23,11 @@
   * [Block Explorer Source Code](https://github.com/BitcoinEvm/blockscout)
 * [Chainlist](road-map/chainlist.md)
 * [Governance Token (BTG)](road-map/governance-token-naka.md)
-* [Web3 BTC](road-map/web3-btc.md)
 
 ## Tutorials
 
-* [Set up your BitcoinEVM](tutorials/set-up-your-bitcoinevm.md)
+* [What is EVM? Ethereum Virtual Machine](tutorials/what-is-evm-ethereum-virtual-machine.md)
+* [Web3 BTC](tutorials/web3-btc.md)
 * [Deploy A dApp](tutorials/deploy-a-dapp.md)
 * [Deploy A Smart Contract](tutorials/deploy-a-smart-contract.md)
 * [Smart Contract Examples](tutorials/smart-contract-examples/README.md)
@@ -39,6 +39,7 @@
   * [Reflection Token](tutorials/smart-contract-examples/reflection-token.md)
   * [Mintable Token](tutorials/smart-contract-examples/mintable-token.md)
   * [Wrapped Token Protocol](tutorials/smart-contract-examples/wrapped-token-protocol.md)
+* [Set up your BitcoinEVM](tutorials/set-up-your-bitcoinevm.md)
 * [🕸 ThirdWeb](get-started/bitcoin-evm/thirdweb.md)
 * [🏦 Additional Wallets](tutorials/additional-wallets.md)
 
