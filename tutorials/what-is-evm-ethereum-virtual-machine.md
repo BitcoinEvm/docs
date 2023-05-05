@@ -30,7 +30,7 @@ Dapps take many of the operating models of web2 platforms and traditional bankin
 
 #### What is a Smart Contract?[​](https://www.horizen.io/academy/ethereum-virtual-machine-evm/#what-is-a-smart-contract) <a href="#what-is-a-smart-contract" id="what-is-a-smart-contract"></a>
 
-One of the core features of the Ethereum network is the ‘[**Smart Contract**](https://www.horizen.io/academy/smart-contracts/)’, which is a type of computer program that executes a set of functions based on predefined rules or conditions set by the developer.
+One of the core features of the Ethereum network is the ‘**Smart Contract**’, which is a type of computer program that executes a set of functions based on predefined rules or conditions set by the developer.
 
 With _smart contracts_, users can conduct all kinds of agreements that involve anywhere from _two_ individuals to _several thousands_ of people without the need of an intermediary.
 
@@ -98,7 +98,7 @@ As we mentioned before, the EVM compiles different kinds of smart contract code 
 
 This ‘**plug and play**’ capability greatly expands the possibilities for emerging blockchains to attract developers to their ecosystem by reducing the time it takes to launch new Dapps and begin capturing market share from within a brand new network.
 
-This phenomenon occurred with the launch of Avalanche and DeFi apps like _TraderJoe_ or _Benqi-Finance_ that quickly emerged on the network due to the ability to seamlessly replicate the [automated market maker](https://www.horizen.io/academy/automated-market-maker-amm/) functionality of Uniswap’s DEX and the smart contract [lending](https://www.horizen.io/academy/crypto-lending/) functionality of Aave.
+This phenomenon occurred with the launch of Avalanche and DeFi apps like _TraderJoe_ or _Benqi-Finance_ that quickly emerged on the network due to the ability to seamlessly replicate the automated market maker functionality of Uniswap’s DEX and the smart contract lending functionality of Aave.
 
 From a users perspective, there is a large incentive to adopt new EVM compatible chains because they allow users to become the first testers of a newly launched Dapp, which can lead to them being rewarded with airdrops (some of which have been worth as much as 6 figures).
 
