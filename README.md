@@ -16,7 +16,7 @@ Bitcoin EVM Is A Decentralized Private Web3 Ecosystem For Bitcoin. Bitcoin EVM W
 
 Bitcoin EVM Community Will Build High Powered, Easy To Use On Chain Decentralized Finance Applications Along With Real Engine Powered Full Graphic High Performance Entertainment Experiences.&#x20;
 
-Bitcoin EVM Makes Bitcoin Carbon Neutral A More Environmentally Friendly & Advanced Way To Use Bitcoin.&#x20;
+Bitcoin EVM Makes Bitcoin Carbon Neutral Allowing For A More Environmentally Friendly & Advanced Way To Use Bitcoin.&#x20;
 
 ## Get Started Guide:
 
