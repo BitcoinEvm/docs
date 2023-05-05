@@ -14,7 +14,7 @@ Bitcoin EVM (BTC) Is Pegged To The Price of Bitcoin (BTC) & Can Be Redeemed For 
 
 Bitcoin EVM Is A Decentralized Private Web3 Ecosystem For Bitcoin. Bitcoin EVM Will Never Be Listed On Centralized Exchanges or Web2 Market Data Price Aggregators To Ensure Users Privacy & Allow Bitcoin Users To Hold & Use Bitcoin Onchain with no KYC or 3rd Parties Necessary To Access Your Assets.&#x20;
 
-Bitcoin EVM Community Will Build High Powered On Chain Decentralized Finance Applications As Well As Real Engine Powered Full Graphic Customer Grade Video Games.&#x20;
+Bitcoin EVM Community Will Build High Powered, Easy To Use On Chain Decentralized Finance Applications Along With Real Engine Powered Full Graphic High Performance Entertainment Experiences.&#x20;
 
-Bitcoin EVM Makes Bitcoin Carbon Neutral A Better More Advanced Way To Use Bitcoin.&#x20;
+Bitcoin EVM Makes Bitcoin Carbon Neutral A More Environmentally Friendly & Advanced Way To Use Your Bitcoin.&#x20;
 

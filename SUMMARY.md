@@ -3,7 +3,7 @@
 ## Get Started
 
 * [🪙 Bitcoin EVM](README.md)
-  * [🏦 Web3 Wallet](get-started/bitcoin-evm/web3-wallet/README.md)
+  * [🏦 Web3 Wallet](get-started/bitcoin-evm/compatible-wallets.md)
     * [🏦 Additional Wallets](get-started/bitcoin-evm/web3-wallet/additional-wallets.md)
   * [🔌 Connect To Bitcoin EVM](connect/connect-to-bitcoin-evm.md)
   * [🌉 Bitcoin EVM Bridge](get-started/bitcoin-evm/bitcoin-evm-bridge.md)
