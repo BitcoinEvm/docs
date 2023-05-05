@@ -44,4 +44,4 @@
 
 ***
 
-* [📃 White Paper](https://bitcoinevm.com/oophodes/2023/04/Bitcoinevm-White-Paper.pdf)
+* [📃 White Paper](https://bitcoinevm.com/oophodes/2023/05/Bitcoinevm-White-Paper.pdf)
