@@ -9,7 +9,7 @@ Simply put, the **EVM** is a computation engine that is in charge of _deploying_
 #### Key Takeaways - EVM[​](https://www.horizen.io/academy/ethereum-virtual-machine-evm/#key-takeaways---evm) <a href="#key-takeaways---evm" id="key-takeaways---evm"></a>
 
 * The **Ethereum Virtual Machine**, or EVM, is a computation engine that is in charge of deploying and executing smart contracts and computing the state for every new block added to the Ethereum blockchain.
-* **EVM compatibility** is an essential feature of blockchains that have enable many popular networks - including _Avalanche_, _Binance Smart Chain_, _Polygon_, _Solana_, _Harmony_ and _Fantom_ - to become highly successful by reducing the barriers to entry for application developers to deploy smart contracts on these new chains due to the code being compatible with the _Ethereum_ network.
+* **EVM compatibility** is an essential feature of blockchains that have enable many popular networks - including _PHI Network_, _Binance Smart Chain_, _Polygon_, _Solana_, _Harmony_ and _Fantom_ - to become highly successful by reducing the barriers to entry for application developers to deploy smart contracts on these new chains due to the code being compatible with the _Ethereum_ network.
 * **EVM has some drawbacks**, including the increase in _gas fees_ which sometimes make dapps too expensive to use during times of network congestion. _However_, layer 2 scaling solutions like _Optimistic_ and _zk-rollups_ are aiming to solve this problem.
 
 To better understand what this all means, it is important to first understand **Ethereum**, **Dapps**, **Smart Contracts** and **Gas**.
@@ -62,9 +62,9 @@ In the enterprise technology industry, virtual machines are typically used in on
 
 Ethereum nodes record and transmit copies of transaction and smart contract data on the Ethereum blockchain, which is then processed by the EVM to update the ledger.
 
-COBALT WEB WALLET
+Brave WEB WALLET
 
-**Cobalt** is a secure and easy-to-use web extension wallet for the Bitcoinevm cross-chain ecosystem. Trustworthy, reliable and built to easily manage your assets.
+**Brave** is a secure and easy-to-use web browser wallet for the Bitcoinevm cross-chain ecosystem. Trustworthy, reliable and built to easily manage your assets.
 
 By being positioned between the nodes and the smart contracts, the EVM can compile different kinds of smart contract code into a standard format known as ‘**bytecode**’, which makes it readable by the Ethereum network and therefore enables those transactions to be recorded by the Ethereum nodes.
 
