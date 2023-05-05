@@ -28,8 +28,8 @@ Bitcoin EVM Makes Bitcoin Carbon Neutral A More Environmentally Friendly & Advan
 
 ### Step 2: Connect Wallet To Bitcoin
 
-{% content-ref url="get-started/bitcoin-evm/connect-to-bitcoin-evm-step-2.md" %}
-[connect-to-bitcoin-evm-step-2.md](get-started/bitcoin-evm/connect-to-bitcoin-evm-step-2.md)
+{% content-ref url="get-started/bitcoin-evm/connect-wallet-to-bitcoin-step-2.md" %}
+[connect-wallet-to-bitcoin-step-2.md](get-started/bitcoin-evm/connect-wallet-to-bitcoin-step-2.md)
 {% endcontent-ref %}
 
 ### Step 3: Bridge Bitcoin

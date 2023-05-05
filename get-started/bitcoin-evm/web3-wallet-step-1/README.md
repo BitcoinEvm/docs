@@ -16,6 +16,6 @@ Download: [Official Download](https://brave.com)
 
 ### Step 2: Connect Wallet To Bitcoin
 
-{% content-ref url="../connect-to-bitcoin-evm-step-2.md" %}
-[connect-to-bitcoin-evm-step-2.md](../connect-to-bitcoin-evm-step-2.md)
+{% content-ref url="../connect-wallet-to-bitcoin-step-2.md" %}
+[connect-wallet-to-bitcoin-step-2.md](../connect-wallet-to-bitcoin-step-2.md)
 {% endcontent-ref %}
