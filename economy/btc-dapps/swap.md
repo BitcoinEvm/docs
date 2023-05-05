@@ -4,7 +4,7 @@ description: >-
   to execute trades & provide liquidity.
 ---
 
-# 💱 BTCSWAP
+# 💱 SWAP
 
 Decentralized Automated Marker Maker Powered By Bitcoin.
 
