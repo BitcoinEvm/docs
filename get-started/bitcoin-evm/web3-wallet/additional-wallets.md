@@ -14,7 +14,9 @@ Download:[ Official Download](https://www.opera.com/)
 
 **​**
 
-​![](https://1479452965-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fw8N76RudwAt1Iyty0Cmd%2Fuploads%2FOnhRQvVT0wcuSr3i7Khu%2Fmetamask-logo.png?alt=media\&token=ce33a61a-c2d7-4301-9b47-37030771223a)​Available as a browser extension and as a mobile app, MetaMask equips you with a key vault, secure login, token wallet, and token exchange - everything you need to manage your digital assets.
+​![](https://1479452965-files.gitbook.io/\~/files/v0/b/gitbook-x-prod.appspot.com/o/spaces%2Fw8N76RudwAt1Iyty0Cmd%2Fuploads%2FOnhRQvVT0wcuSr3i7Khu%2Fmetamask-logo.png?alt=media\&token=ce33a61a-c2d7-4301-9b47-37030771223a)​
+
+Available as a browser extension and as a mobile app, MetaMask equips you with a key vault, secure login, token wallet, and token exchange - everything you need to manage your digital assets.
 
 **Compatibility:** Browser Extension, Mobile
 
@@ -22,7 +24,7 @@ Download:[ Official Download](https://www.opera.com/)
 
 <figure><img src="https://wallet3.io/static/media/logo.c13e125d.svg" alt="" width="188"><figcaption></figcaption></figure>
 
-#### Open Web3 with Wallet 3
+Open Web3 with Wallet 3
 
 * Designed based on asset security
 * Multi-chain tokens and NFT digital assets

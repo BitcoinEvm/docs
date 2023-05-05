@@ -2,6 +2,6 @@
 description: Bitcoin EVM On Chain Governance Powered By Snapshot
 ---
 
-# Governance
+# 📓 Governance
 
 {% embed url="https://gov.bitcoinevm.com/#/bitcoinevm.eth" %}

@@ -9,6 +9,7 @@
   * [🌉 Bitcoin EVM Bridge](get-started/bitcoin-evm/bitcoin-evm-bridge.md)
   * [💱 BTCSWAP](get-started/bitcoin-evm/bitcoin-dex.md)
   * [💹 Marketplace](get-started/bitcoin-evm/marketplace.md)
+  * [📓 Governance](get-started/bitcoin-evm/governance.md)
 
 ## Road Map
 
@@ -16,7 +17,6 @@
 * [Block Explorer](road-map/block-explorer/README.md)
   * [Block Explorer Source Code](https://github.com/BitcoinEvm/blockscout)
 * [Chainlist](road-map/chainlist.md)
-* [Governance](road-map/governance.md)
 * [Governance Token (BTG)](road-map/governance-token-naka.md)
 * [Web3 BTC](road-map/web3-btc.md)
 
