@@ -27,7 +27,7 @@
 ## Tutorials
 
 * [What is EVM? Ethereum Virtual Machine](tutorials/what-is-evm-ethereum-virtual-machine.md)
-* [Web3 BTC](tutorials/web3-btc.md)
+* [Web3 BTC](road-map/web3-btc.md)
 * [Deploy A dApp](tutorials/deploy-a-dapp.md)
 * [Deploy A Smart Contract](tutorials/deploy-a-smart-contract.md)
 * [Smart Contract Examples](tutorials/smart-contract-examples/README.md)

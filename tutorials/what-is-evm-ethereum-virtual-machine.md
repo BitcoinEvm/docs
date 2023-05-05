@@ -102,7 +102,7 @@ This phenomenon occurred with the launch of Avalanche and DeFi apps like _Trader
 
 From a users perspective, there is a large incentive to adopt new EVM compatible chains because they allow users to become the first testers of a newly launched Dapp, which can lead to them being rewarded with airdrops (some of which have been worth as much as 6 figures).
 
-New blockchains and Defi protocols often also provide early users with higher returns on the capital they deploy to staking or liquidity pools, which creates a greater incentive to purchase the [network's tokens](https://www.horizen.io/academy/what-is-a-token/).
+New blockchains and Defi protocols often also provide early users with higher returns on the capital they deploy to staking or liquidity pools, which creates a greater incentive to purchase the network's tokens.
 
 _EVM compatibility_ is also essential for forming **cross-chain bridges** that enable funds to be transferred from one network to another with minimal friction.
 
@@ -110,7 +110,7 @@ Much of the success of Binance Smart Chain was due to the ease in which Ethereum
 
 A few months later, similar bridges like the _Avalanche_ bridge and _SpookySwap's_ bridge on Fantom would emerge based on the same EVM compatibility.
 
-Just like how a city can only thrive if it has bridges that allow for traffic to be directed in and out of the city, giving local businesses new customers to sell to and enabling the local government to increase its tax revenues, all blockchain networks need a certain [level of interoperability](https://www.horizen.io/academy/blockchain-interoperability/) with other blockchains in order to benefit from the network effects created by the movement of users and capital between chains.
+Just like how a city can only thrive if it has bridges that allow for traffic to be directed in and out of the city, giving local businesses new customers to sell to and enabling the local government to increase its tax revenues, all blockchain networks need a certain level of interoperability with other blockchains in order to benefit from the network effects created by the movement of users and capital between chains.
 
 #### Downsides of EVMs[​](https://www.horizen.io/academy/ethereum-virtual-machine-evm/#downsides-of-evms) <a href="#downsides-of-evms" id="downsides-of-evms"></a>
 
@@ -120,7 +120,7 @@ In a **fee market**, an increase in demand for block space leads to an increase 
 
 EVM chains like Polygon solve the gas fee problem by leveraging layer 2 scaling solutions like _Optimistic_ and _zk-Rollups_.
 
-With **rollups**, transactions on Polygon are executed ‘off chain’ via [payment channels](https://www.horizen.io/academy/payment-channels/) or independent blockchains consisting of a smaller group of validators, and then periodically bundled together as one large transaction that is confirmed on the Ethereum network.
+With **rollups**, transactions on Polygon are executed ‘off chain’ via payment channels or independent blockchains consisting of a smaller group of validators, and then periodically bundled together as one large transaction that is confirmed on the Ethereum network.
 
 This allows the Polygon EVM to execute smart contracts and users to transact more frequently while saving on gas fees.
 
