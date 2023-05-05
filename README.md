@@ -6,7 +6,7 @@ description: Bitcoin Ethereum Virtual Machine
 
 Web3 Enabled Bitcoin.&#x20;
 
-Bitcoin Ethereum Virtual Machine "EVM" Is A High Performant EVM Compatible Blockchain Upgrade For Bitcoin. Bringing Lower Fees, Lower Transaction Times & Smart Contracts.&#x20;
+Bitcoin Ethereum Virtual Machine "EVM" Is The High Performant EVM Compatible Blockchain Upgrade For Bitcoin. Bringing Lower Fees, Lower Transaction Times & Smart Contracts.&#x20;
 
 Bitcoin Holders Can Easily Bridge Their BTC To & From Bitcoin EVM At A 1 BTC To 1 BTC Ratio.&#x20;
 
