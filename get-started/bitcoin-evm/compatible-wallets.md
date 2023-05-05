@@ -1,3 +1,7 @@
+---
+description: Select A Self Custodial Web3 Wallet.
+---
+
 # 🏦 Compatible Wallets
 
 ## **Recommended Wallet:**
