@@ -1,5 +1,5 @@
 ---
-description: Bitcoin Ethereum Virtual Machine Documentation
+description: Bitcoin Ethereum Virtual Machine
 ---
 
 # 🪙 Bitcoin EVM
