@@ -1,24 +1,8 @@
 ---
-description: Select A Self Custodial Web3 Wallet.
+description: Alternative Compatible Web3 Self Custodial Wallets.
 ---
 
-# 🏦 Compatible Wallets
-
-## **Recommended Wallet:**
-
-**​**​[​![](https://brave.com/static-assets/images/brave-logo.svg)​](https://brave.com/)&#x20;
-
-Brave is a free and open-source web browser developed by Brave Software, Inc. based on the Chromium web browser. Brave is a privacy-focused browser, which automatically blocks some advertisements and website trackers in its default settings.
-
-Compatibility: Browser, Mobile
-
-Download: [Official Download](https://brave.com)
-
-
-
-### Alternative Wallets:
-
-
+# 🏦 Additional Wallets
 
 [![Opera](https://cdn-production-opera-website.operacdn.com/staticfiles/assets/images/logo/logo-and-name.46b042c664d0.png)](https://www.opera.com/)
 
