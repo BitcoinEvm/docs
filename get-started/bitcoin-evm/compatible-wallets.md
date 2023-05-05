@@ -1,6 +1,6 @@
 # 🏦 Compatible Wallets
 
-**Recommended Wallet:**
+## **Recommended Wallet:**
 
 **​**​[​![](https://brave.com/static-assets/images/brave-logo.svg)​](https://brave.com/)&#x20;
 
@@ -12,7 +12,7 @@ Download: [Official Download](https://brave.com)
 
 
 
-Alternative Wallets:
+### Alternative Wallets:
 
 
 
