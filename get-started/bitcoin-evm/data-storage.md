@@ -1,3 +1,9 @@
+---
+description: >-
+  Web3 Self-custodial Data Storage. Private, Secure, Trust-less, On-Chain Data
+  Storage With Bitcoin.
+---
+
 # 🔐 Data Storage
 
 {% embed url="https://app.dexstorage.com" %}
