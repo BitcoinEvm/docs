@@ -10,6 +10,7 @@
   * [💱 BTCSWAP](get-started/bitcoin-evm/bitcoin-dex.md)
   * [💹 Marketplace](get-started/bitcoin-evm/marketplace.md)
   * [📓 Governance](get-started/bitcoin-evm/governance.md)
+  * [🔐 Data Storage](get-started/bitcoin-evm/data-storage.md)
 
 ## Road Map
 
