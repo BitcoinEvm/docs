@@ -2,7 +2,7 @@
 description: Self Custodial Web3 Wallet.
 ---
 
-# 🏦 Web3 Wallet
+# 🏦 Web3 Wallet (Step 1)
 
 **​**​[​![](https://brave.com/static-assets/images/brave-logo.svg)​](https://brave.com/)&#x20;
 
@@ -14,6 +14,8 @@ Download: [Official Download](https://brave.com)
 
 {% embed url="https://brave.com" %}
 
+### Step 2: Connect Wallet To Bitcoin
 
-
-###
+{% content-ref url="../connect-to-bitcoin-evm-step-2.md" %}
+[connect-to-bitcoin-evm-step-2.md](../connect-to-bitcoin-evm-step-2.md)
+{% endcontent-ref %}

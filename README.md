@@ -20,20 +20,21 @@ Bitcoin EVM Makes Bitcoin Carbon Neutral A More Environmentally Friendly & Advan
 
 ## Get Started Guide:
 
-Step 1: Install Wallet
+### Step 1: Install Wallet
 
-{% content-ref url="get-started/bitcoin-evm/compatible-wallets.md" %}
-[compatible-wallets.md](get-started/bitcoin-evm/compatible-wallets.md)
+{% content-ref url="get-started/bitcoin-evm/web3-wallet-step-1/" %}
+[web3-wallet-step-1](get-started/bitcoin-evm/web3-wallet-step-1/)
 {% endcontent-ref %}
 
-Step 2: Connect Wallet To Bitcoin
+### Step 2: Connect Wallet To Bitcoin
 
-{% content-ref url="connect/connect-to-bitcoin-evm.md" %}
-[connect-to-bitcoin-evm.md](connect/connect-to-bitcoin-evm.md)
+{% content-ref url="get-started/bitcoin-evm/connect-to-bitcoin-evm-step-2.md" %}
+[connect-to-bitcoin-evm-step-2.md](get-started/bitcoin-evm/connect-to-bitcoin-evm-step-2.md)
 {% endcontent-ref %}
 
-Step 3: Bridge Bitcoin
+### Step 3: Bridge Bitcoin
 
-{% content-ref url="get-started/bitcoin-evm/bitcoin-evm-bridge.md" %}
-[bitcoin-evm-bridge.md](get-started/bitcoin-evm/bitcoin-evm-bridge.md)
+{% content-ref url="get-started/bitcoin-evm/bitcoin-bridge-step-3.md" %}
+[bitcoin-bridge-step-3.md](get-started/bitcoin-evm/bitcoin-bridge-step-3.md)
 {% endcontent-ref %}
+
