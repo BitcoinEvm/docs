@@ -7,10 +7,10 @@ description: Connect Your Web3 Wallet To Bitcoin
 ## Automatic Connection:
 
 {% embed url="https://explorer.bitcoinevm.com" %}
-Within Your Web3 [Wallet Browser ](wallet-step-1/)Click Add BTC At The Bottom Of[ Block Explorer ](https://explorer.bitcoinevm.com)To Automatically Connect.
+Within Your Web3 [Wallet Browser ](web3-wallet-step-1/)Click Add BTC At The Bottom Of[ Block Explorer ](https://explorer.bitcoinevm.com)To Automatically Connect.
 {% endembed %}
 
-<figure><img src="../../../.gitbook/assets/IMG_1533.jpg" alt="" width="188"><figcaption><p>Scroll To The Bottom Of The <a href="https://explorer.bitcoinevm.com">Block Explorer</a> &#x26; Click Add BTC</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/IMG_1533.jpg" alt="" width="188"><figcaption><p>Scroll To The Bottom Of The <a href="https://explorer.bitcoinevm.com">Block Explorer</a> &#x26; Click Add BTC</p></figcaption></figure>
 
 
 
