@@ -12,7 +12,7 @@
 ## 🏛 Economy
 
 * [📲 BTC dApps](economy/btc-dapps/README.md)
-  * [💱 SWAP](economy/btc-dapps/swap.md)
+  * [💱 BTCSWAP](economy/btc-dapps/btcswap.md)
   * [💹 Marketplace](get-started/bitcoin-evm/marketplace.md)
   * [📓 Governance](get-started/bitcoin-evm/governance.md)
   * [🔐 Data Storage](economy/btc-dapps/data-storage.md)
