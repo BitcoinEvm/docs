@@ -22,8 +22,8 @@ Bitcoin EVM Makes Bitcoin Carbon Neutral Allowing For A More Environmentally Fri
 
 ### Step 1: Install Web3 Wallet
 
-{% content-ref url="get-started/bitcoin-evm/web3-wallet-step-1/" %}
-[web3-wallet-step-1](get-started/bitcoin-evm/web3-wallet-step-1/)
+{% content-ref url="get-started/bitcoin-evm/get-started/wallet-step-1.md" %}
+[wallet-step-1.md](get-started/bitcoin-evm/get-started/wallet-step-1.md)
 {% endcontent-ref %}
 
 ### Step 2: Connect Wallet To Bitcoin

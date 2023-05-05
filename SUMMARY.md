@@ -4,15 +4,14 @@
 
 * [🪙 Bitcoin EVM](README.md)
   * [🎇 Get Started](get-started/bitcoin-evm/get-started/README.md)
-    * [🏦 Wallet (Step 1)](get-started/bitcoin-evm/web3-wallet-step-1/README.md)
-      * [🏦 Additional Wallets](get-started/bitcoin-evm/web3-wallet-step-1/additional-wallets.md)
+    * [🏦 Wallet (Step 1)](get-started/bitcoin-evm/get-started/wallet-step-1.md)
     * [🔌 Connect Wallet To Bitcoin (Step 2)](get-started/bitcoin-evm/connect-wallet-to-bitcoin-step-2.md)
     * [🌉 Bridge (Step 3)](get-started/bitcoin-evm/bridge-step-3.md)
 
 ## 🏛 Economy
 
 * [📲 BTC dApps](economy/btc-dapps/README.md)
-  * [💱 BTCSWAP](economy/btc-dapps/btcswap.md)
+  * [💱 BTCSWAP](get-started/bitcoin-evm/bitcoin-dex.md)
   * [💹 Marketplace](get-started/bitcoin-evm/marketplace.md)
   * [📓 Governance](get-started/bitcoin-evm/governance.md)
   * [🔐 Data Storage](economy/btc-dapps/data-storage.md)
@@ -41,7 +40,8 @@
   * [Mintable Token](tutorials/smart-contract-examples/mintable-token.md)
   * [Wrapped Token Protocol](tutorials/smart-contract-examples/wrapped-token-protocol.md)
 * [🕸 ThirdWeb](get-started/bitcoin-evm/thirdweb.md)
+* [🏦 Additional Wallets](tutorials/additional-wallets.md)
 
 ***
 
-* [White Paper](https://bitcoinevm.com/oophodes/2023/04/Bitcoinevm-White-Paper.pdf)
+* [📃 White Paper](https://bitcoinevm.com/oophodes/2023/04/Bitcoinevm-White-Paper.pdf)
