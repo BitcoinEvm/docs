@@ -2,7 +2,7 @@
 description: Self Custodial Web3 Wallet.
 ---
 
-# 🏦 Recommended Wallet
+# 🏦 Web3 Wallet
 
 **​**​[​![](https://brave.com/static-assets/images/brave-logo.svg)​](https://brave.com/)&#x20;
 
