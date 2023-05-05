@@ -12,6 +12,8 @@ Compatibility: Browser, Mobile
 
 Download: [Official Download](https://brave.com)
 
+{% embed url="https://brave.com" %}
+
 
 
 ###
