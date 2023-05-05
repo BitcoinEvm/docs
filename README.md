@@ -18,7 +18,7 @@ Bitcoin EVM Community Will Build High Powered, Easy To Use On Chain Decentralize
 
 Bitcoin EVM Makes Bitcoin Carbon Neutral A More Environmentally Friendly & Advanced Way To Use Bitcoin.&#x20;
 
-### Get Started Guide:
+## Get Started Guide:
 
 Step 1: Install Wallet
 
