@@ -6,7 +6,7 @@
   * [🏦 Wallet (Step 1)](get-started/bitcoin-evm/web3-wallet-step-1/README.md)
     * [🏦 Additional Wallets](get-started/bitcoin-evm/web3-wallet-step-1/additional-wallets.md)
   * [🔌 Connect Wallet To Bitcoin (Step 2)](get-started/bitcoin-evm/connect-wallet-to-bitcoin-step-2.md)
-  * [🌉 Bitcoin Bridge (Step 3)](get-started/bitcoin-evm/bitcoin-bridge-step-3.md)
+  * [🌉 Bridge (Step 3)](get-started/bitcoin-evm/bridge-step-3.md)
   * [💱 BTCSWAP](get-started/bitcoin-evm/bitcoin-dex.md)
   * [💹 Marketplace](get-started/bitcoin-evm/marketplace.md)
   * [📓 Governance](get-started/bitcoin-evm/governance.md)

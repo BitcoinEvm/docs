@@ -34,7 +34,7 @@ Bitcoin EVM Makes Bitcoin Carbon Neutral A More Environmentally Friendly & Advan
 
 ### Step 3: Bridge Bitcoin
 
-{% content-ref url="get-started/bitcoin-evm/bitcoin-bridge-step-3.md" %}
-[bitcoin-bridge-step-3.md](get-started/bitcoin-evm/bitcoin-bridge-step-3.md)
+{% content-ref url="get-started/bitcoin-evm/bridge-step-3.md" %}
+[bridge-step-3.md](get-started/bitcoin-evm/bridge-step-3.md)
 {% endcontent-ref %}
 

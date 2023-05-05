@@ -31,6 +31,6 @@ Within Your Web3 [Wallet Browser ](web3-wallet-step-1/)Click Add BTC At The Bott
 
 ### Step 3: Bridge Bitcoin
 
-{% content-ref url="bitcoin-bridge-step-3.md" %}
-[bitcoin-bridge-step-3.md](bitcoin-bridge-step-3.md)
+{% content-ref url="bridge-step-3.md" %}
+[bridge-step-3.md](bridge-step-3.md)
 {% endcontent-ref %}
