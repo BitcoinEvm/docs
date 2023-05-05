@@ -18,3 +18,22 @@ Bitcoin EVM Community Will Build High Powered, Easy To Use On Chain Decentralize
 
 Bitcoin EVM Makes Bitcoin Carbon Neutral A More Environmentally Friendly & Advanced Way To Use Bitcoin.&#x20;
 
+### Get Started Guide:
+
+Step 1: Install Wallet
+
+{% content-ref url="get-started/bitcoin-evm/compatible-wallets.md" %}
+[compatible-wallets.md](get-started/bitcoin-evm/compatible-wallets.md)
+{% endcontent-ref %}
+
+Step 2: Connect Wallet To Bitcoin
+
+{% content-ref url="connect/connect-to-bitcoin-evm.md" %}
+[connect-to-bitcoin-evm.md](connect/connect-to-bitcoin-evm.md)
+{% endcontent-ref %}
+
+Step 3: Bridge Bitcoin
+
+{% content-ref url="get-started/bitcoin-evm/bitcoin-evm-bridge.md" %}
+[bitcoin-evm-bridge.md](get-started/bitcoin-evm/bitcoin-evm-bridge.md)
+{% endcontent-ref %}

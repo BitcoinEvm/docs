@@ -8,7 +8,7 @@ description: Connect Your Web3 Wallet To Bitcoin (BTC)
 Within Your Wallet Browser Click Add BTC At The Bottom Of Block Explorer To Automatically Connect To The Chain.
 {% endembed %}
 
-<figure><img src="../.gitbook/assets/IMG_1533.jpg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/IMG_1533.jpg" alt="" width="188"><figcaption></figcaption></figure>
 
 {% embed url="https://chainlist.org/chain/2203" %}
 
