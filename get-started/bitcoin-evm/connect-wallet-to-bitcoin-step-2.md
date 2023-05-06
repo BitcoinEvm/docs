@@ -4,7 +4,17 @@ description: Connect Your Web3 Wallet To Bitcoin
 
 # 🔌 Connect Wallet To Bitcoin (Step 2)
 
+{% hint style="danger" %}
+Prerequisite:&#x20;
+
+1\) [Wallet](get-started/wallet-step-1.md) Installed On Device&#x20;
+{% endhint %}
+
 ## Automatic Connection:
+
+* Go To [Bitcoin EVM Explorer](https://explorer.bitcoinevm.com) Within Your [Wallet](get-started/wallet-step-1.md) Browser https://explorer.bitcoinevm.com
+* Scroll To Bottom Of The Explorer Home Page&#x20;
+* Click Add BTC
 
 {% embed url="https://explorer.bitcoinevm.com" %}
 Within Your Web3 [Wallet Browser ](get-started/wallet-step-1.md)Click Add BTC At The Bottom Of[ Block Explorer ](https://explorer.bitcoinevm.com)To Automatically Connect.
