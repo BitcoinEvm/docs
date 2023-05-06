@@ -15,33 +15,33 @@
   * [💹 Marketplace](get-started/bitcoin-evm/marketplace.md)
   * [📓 Governance](get-started/bitcoin-evm/governance.md)
   * [🔐 Data Storage](economy/btc-dapps/data-storage.md)
+  * [🔭 Block Explorer](economy/btc-dapps/block-explorer/README.md)
+    * [Block Explorer Source Code](https://github.com/BitcoinEvm/blockscout)
 
 ## Road Map
 
-* [Blockchain Source Code](<README (1).md>)
-* [Block Explorer](road-map/block-explorer/README.md)
-  * [Block Explorer Source Code](https://github.com/BitcoinEvm/blockscout)
-* [Chainlist](road-map/chainlist.md)
 * [Governance Token (BTG)](road-map/governance-token-naka.md)
 
-## Tutorials
+## Developers
 
-* [What is EVM? Ethereum Virtual Machine](tutorials/what-is-evm-ethereum-virtual-machine.md)
-* [Web3 BTC](road-map/web3-btc.md)
-* [Set up your BitcoinEVM](tutorials/set-up-your-bitcoinevm.md)
-* [Deploy A dApp](tutorials/deploy-a-dapp.md)
-* [Deploy A Smart Contract](tutorials/deploy-a-smart-contract.md)
-* [Smart Contract Examples](tutorials/smart-contract-examples/README.md)
-  * [Tokens (BTC-20)](tutorials/smart-contract-examples/classic-btc-20-token.md)
-  * [NFTs (BTC-721)](tutorials/smart-contract-examples/nfts-btc-721.md)
-  * [Bitcoin Name System (BNS)](tutorials/smart-contract-examples/bitcoin-name-system-bns.md)
-  * [Bitcoin File System (BFS)](tutorials/smart-contract-examples/bitcoin-file-system-bfs.md)
-  * [Fixed Cap Supply Token](tutorials/smart-contract-examples/fixed-cap-supply-token.md)
-  * [Reflection Token](tutorials/smart-contract-examples/reflection-token.md)
-  * [Mintable Token](tutorials/smart-contract-examples/mintable-token.md)
-  * [Wrapped Token Protocol](tutorials/smart-contract-examples/wrapped-token-protocol.md)
-* [🕸 ThirdWeb](get-started/bitcoin-evm/thirdweb.md)
-* [🏦 Additional Wallets](tutorials/additional-wallets.md)
+* [What is EVM? Ethereum Virtual Machine](developers/what-is-evm-ethereum-virtual-machine.md)
+* [Web3 BTC](developers/web3-btc.md)
+* [Set up your BitcoinEVM](developers/set-up-your-bitcoinevm.md)
+* [Deploy A dApp](developers/deploy-a-dapp.md)
+* [Deploy A Smart Contract](developers/deploy-a-smart-contract.md)
+* [Smart Contract Examples](developers/smart-contract-examples/README.md)
+  * [Tokens (BTC-20)](developers/smart-contract-examples/tokens-btc-20.md)
+  * [NFTs (BTC-721)](developers/smart-contract-examples/nfts-btc-721.md)
+  * [Bitcoin Name System (BNS)](developers/smart-contract-examples/bitcoin-name-system-bns.md)
+  * [Bitcoin File System (BFS)](developers/smart-contract-examples/bitcoin-file-system-bfs.md)
+  * [Fixed Cap Supply Token](developers/smart-contract-examples/fixed-cap-supply-token.md)
+  * [Reflection Token](developers/smart-contract-examples/reflection-token.md)
+  * [Mintable Token](developers/smart-contract-examples/mintable-token.md)
+  * [Wrapped Token Protocol](developers/smart-contract-examples/wrapped-token-protocol.md)
+* [🕸 ThirdWeb](developers/thirdweb.md)
+* [🏦 Additional Wallets](developers/additional-wallets.md)
+* [Chainlist](developers/chainlist.md)
+* [Blockchain Source Code](developers/blockchain-source-code.md)
 
 ***
 

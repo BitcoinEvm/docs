@@ -2,7 +2,9 @@
 description: Block Explorer Powered By Blockscout
 ---
 
-# Block Explorer
+# 🔭 Block Explorer
+
+
 
 {% embed url="https://explorer.bitcoinevm.com" %}
 
