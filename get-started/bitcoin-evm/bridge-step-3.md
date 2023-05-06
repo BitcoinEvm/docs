@@ -3,7 +3,7 @@
 {% hint style="danger" %}
 Prerequisite:&#x20;
 
-1\) [Wallet](get-started/wallet-step-1.md) Installed On Device&#x20;
+1\) Web3 [Wallet](get-started/wallet-step-1.md) Installed On Device&#x20;
 
 2\) [Connected To Bitcoin EVM](connect-wallet-to-bitcoin-step-2.md)
 {% endhint %}

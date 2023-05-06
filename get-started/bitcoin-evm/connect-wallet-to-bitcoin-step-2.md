@@ -7,7 +7,7 @@ description: Connect Your Web3 Wallet To Bitcoin
 {% hint style="danger" %}
 Prerequisite:&#x20;
 
-1\) [Wallet](get-started/wallet-step-1.md) Installed On Device&#x20;
+1\) Web3 [Wallet](get-started/wallet-step-1.md) Installed On Device&#x20;
 {% endhint %}
 
 ## Automatic Connection:
