@@ -12,7 +12,7 @@ Bitcoin Holders Can Easily Bridge Their BTC To & From Bitcoin EVM At A 1 BTC To 
 
 Bitcoin EVM (BTC) Is Pegged To The Price of Bitcoin (BTC) & Can Be Redeemed For Bitcoin At Any Time With Trust-less OnChain Non-Custodial Bridges.
 
-Bitcoin EVM Is A Decentralized Private Web3 Ecosystem For Bitcoin. Bitcoin EVM Will Never Be Listed On Centralized Exchanges or Web2 Market Data Price Aggregators To Ensure Users Privacy & Allow Bitcoin Users To Hold & Use Bitcoin Onchain with no KYC or 3rd Parties Necessary To Access Your Assets.&#x20;
+Bitcoin EVM Is A Decentralized Private Web3 Ecosystem For Bitcoin. Hold & Use Bitcoin On-chain with no KYC or 3rd Parties Necessary To Access Your Assets.&#x20;
 
 Bitcoin EVM Community Will Build High Powered, Easy To Use On Chain Decentralized Finance Applications Along With Real Engine Powered Full Graphic High Performance Entertainment Experiences.&#x20;
 
